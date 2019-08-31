@@ -2,3 +2,7 @@ body {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+.first-unity {
+    border: 1px solid black;
+}
