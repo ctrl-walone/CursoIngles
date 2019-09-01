@@ -1,6 +1,7 @@
 body {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
+    
 }
 
 .cabecera {
@@ -20,7 +21,8 @@ body {
 .seventh-unity,
 .eighth-unity,
 .ninth-unity,
-.tenth-unity {
+.tenth-unity,
+.eleventh-unity {
     border: 1px solid black;
     margin: 5px 0px;
 }
