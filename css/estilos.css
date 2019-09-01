@@ -15,7 +15,8 @@ body {
 .second-unity,
 .third-unity,
 .quarter-unity,
-.fifth-unity {
+.fifth-unity,
+.sixth-unity {
     border: 1px solid black;
     margin: 5px 0px;
 }
