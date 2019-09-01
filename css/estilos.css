@@ -12,7 +12,8 @@ body {
 }
 
 .first-unity,
-.second-unity {
+.second-unity
+.third-unity {
     border: 1px solid black;
     margin: 5px 0px;
 }
